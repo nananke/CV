@@ -8,7 +8,7 @@ Lehigh University                                                               
 B.S. in Computer Science and Engineering                                  September 2016-June 2020 
 
 New York University                                                                Brooklyn, NYC
-M.S. in Computer Engineering, specifically in Machine Learning                       June 2020-current 
+M.S. in Computer Engineering                                              June 2020-current 
                                        
 - Relevant courses: Calculus, Probability and Statistics, Programming and Data Structures, Software Engineering, Computer generated Graphics, Design and Analysis of Algorithm, Database Development, web-Application Development, Intro ML, Reinforcement Learning, Data Science for Business.
 
