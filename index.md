@@ -11,6 +11,7 @@ New York University                                                             
 M.S. in Computer Engineering, specifically in Machine Learning                       June 2020-current 
                                        
 - Relevant courses: Calculus, Probability and Statistics, Programming and Data Structures, Software Engineering, Computer generated Graphics, Design and Analysis of Algorithm, Database Development, web-Application Development, Intro ML, Reinforcement Learning, Data Science for Business.
+
 Machine Learning Projects                                                                               
 Capstone project: Affective Computing by Nature Language Processing (NLP) and Image Detection
 Supervised by Prof. Sihong Xie(Lehigh University)                                January 2019-Dec 2019
@@ -21,6 +22,8 @@ Supervised by Prof. Sihong Xie(Lehigh University)                               
 -	Populated a MySQL database with the annotated images along with the individual information
 -	Built CNN (Convolutional Neural Network) model based on Pytorch img2vec package to compare cosine-similarity between inputted image vector and the vector of annotated images 
 -	Select top 10 vector matched images and generate a aggregated diagram of the emotion percentage. 
+
+
 Summer Research Project: Develop a predication model for Product Reviews with Reinforcement Learning Algorithm
 Supervised by Prof. Sihong Xie                                                    June-August 2019
 -	Objective: predicate if two words were paired in one sentence (an adjective qualifying a noun as one pair, for example: This screen is very large)
@@ -30,12 +33,16 @@ Supervised by Prof. Sihong Xie                                                  
 -	Aggregate& Avg. scores of product reviews that contains same pair of words (training part complete) 
 -	Used Lehigh crowdsourcing interface to collect annotated data which were going to use as ground truth to exam to accuracy of ELP model prediction result
 -	The final testing accuracy of paired words is around 40~50 percent.
+
+
 Intern Experience                                                                                
 Suzhou Automotive Research Institute, Tsinghua University                        Suzhou, China Software Development Engineer (Intern)                           December 2019-January 2020 
 -	Studied how Computer Vision machine designed industrially: Industrial camera setting, Conveyor belt design 
 -	Collaborated with others to develop a software that based on Nation Instrument (NI) Vision development module
 -	Software can analyze captured images for the plastic bottles running on the conveyor and compare its pixels RGB values with the criterion
 -	Distinguish & kicking out defective plastic bottles (i.e. black spots or dirt in the bottles, unqualified bottle thickness, usually has regionally irregular RGB values) 
+
+
 Sunyard System Engineering Co., Ltd.                                            Hangzhou, China                                     
 Machine Learning Engineer (Intern), Financial Database Research Center                   June-July 2018
 Project: The Development of an APP for Guizhou Bank to Detect Users’ Suspicious Transaction Behaviors based on Bank Flow System  
@@ -43,6 +50,8 @@ Project: The Development of an APP for Guizhou Bank to Detect Users’ Suspiciou
 -	Applied graph-based data mining model to analyze collected data and generated a diverge number for each user based on an enterprise graph mining engine
 -	Set number range of those generated diverge numbers to indicate normal transactions and suspicious transactions: 10 to 15 as normal, and higher than 100 as suspicious
 -	Marked suspicious transactions in users’ bank accounts and warned users by calling them.
+
+
 Professional Skills                                                                                         
 -	Programming Languages: JAVA, SQL, C++, Python, JavaScript, HTML, WebGL, R
 -	Databases Application Development, Web Application Development
