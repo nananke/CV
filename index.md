@@ -3,7 +3,7 @@ Kenan Xu
 +1 484 632 9973  kenanxuconan@outlook.com
 
 
-Education Background<br/>                                                                                   
+<mark>Education Background</mark>                                                                                 
 Lehigh University                                                                Bethlehem, PA                                        
 B.S. in Computer Science and Engineering                                  September 2016-June 2020 
 
